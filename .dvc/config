@@ -2,5 +2,6 @@
     remote = dvc-scratch
 ['remote "dvc-scratch"']
     url = s3://dvc-scratch/dvc-storage
-    region = us-east-2
+    region = us-east-1
     endpointurl = https://s3.imk-ifu.kit.edu:8082
+    profile = dvc-scratch
